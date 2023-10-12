@@ -15,8 +15,7 @@ This repository showcases a RESTful API-driven full-stack CRUD system for server
 
 ### Here's a video demo of my project:
 
-[Watch the Video](https://drive.google.com/file/d/12cyhpt7bs9L7qsMU79UEkJaYBNHLHONX/view?usp=sharing)
-<iframe src="https://drive.google.com/file/d/12cyhpt7bs9L7qsMU79UEkJaYBNHLHONX/preview" width="640" height="480"></iframe>
+[![Click to Watch](https://drive.google.com/uc?id=1UoHixYMcrRS9MT7aRSjrKEx9Lql7Cvs-)](https://drive.google.com/file/d/12cyhpt7bs9L7qsMU79UEkJaYBNHLHONX/view?usp=sharing)
 
 ## Key Features
 - Create new servers with specific details.
