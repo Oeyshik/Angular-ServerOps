@@ -13,7 +13,7 @@ This repository showcases a RESTful API-driven full-stack CRUD system for server
 
 ## Video Demo
 
-### Here's a video demo of my project:
+### Click to Watch:
 
 [![Click to Watch](https://drive.google.com/uc?id=1UoHixYMcrRS9MT7aRSjrKEx9Lql7Cvs-)](https://drive.google.com/file/d/12cyhpt7bs9L7qsMU79UEkJaYBNHLHONX/view?usp=sharing)
 
